@@ -32,7 +32,7 @@ Our updated project architecture can be found [here](./Architecture.md).
 
 ## Branching Strategy
 
-Our branching strategy can be found [here](./BranchingStrategy.md).
+Our branching strategy can be found [here](./BranchingStrategy.svj).
 <br><br>
 
 ## How to run
