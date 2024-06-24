@@ -2,7 +2,7 @@
 
 ## Vision Statement
 
-Vision statement can be found [here](./docs/VISION.md)
+Vision statement can be found [here](./VISION.md)
 <br><br>
 
 ## Purpose of the Project
