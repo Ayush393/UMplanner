@@ -27,12 +27,12 @@ Iteration 1 worksheet can be found [here](./docs/Iteration-1-worksheet.md).
 
 ## Architecture
 
-Our updated project architecture can be found [here](./docs/Architecture.md).
+Our updated project architecture can be found [here](./Architecture.md).
 <br><br>
 
 ## Branching Strategy
 
-Our branching strategy can be found [here](./docs/BranchingStrategy.md).
+Our branching strategy can be found [here](./BranchingStrategy.md).
 <br><br>
 
 ## How to run
