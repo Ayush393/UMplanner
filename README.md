@@ -10,29 +10,14 @@ Vision statement can be found [here](./VISION.md)
 To be able to look up courses offered by the university and better plan one's schedule for ongoing and future semesters
 <br><br>
 
-## Iteration 3 Worksheet
-
-Iteration 3 worksheet can be found [here](./docs/Iteration-3-worksheet.md)
-<br><br>
-
-## Iteration 2 Worksheet
-
-Iteration 2 worksheet can be found [here](./docs/Iteration-2-worksheet.md).
-<br><br>
-
-## Iteration 1 Worksheet
-
-Iteration 1 worksheet can be found [here](./docs/Iteration-1-worksheet.md).
-<br><br>
-
 ## Architecture
 
-Our updated project architecture can be found [here](./Architecture.md).
+Updated project architecture can be found [here](./Architecture.md).
 <br><br>
 
 ## Branching Strategy
 
-Our branching strategy can be found [here](./BranchingStrategy.md).
+Branching Diagram can be found [here](./BranchingDiagram.svj).
 <br><br>
 
 ## How to run
