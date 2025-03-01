@@ -15,11 +15,6 @@ To be able to look up courses offered by the university and better plan one's sc
 Updated project architecture can be found [here](./Architecture.md).
 <br><br>
 
-## Branching Strategy
-
-Branching Diagram can be found [here](./BranchingDiagram.svj).
-<br><br>
-
 ## How to run
 ### Intructions & Build
 - Locate [UMPLANNER](https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-10/umplanner-comp3350-a02-group10)
