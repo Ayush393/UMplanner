@@ -1,16 +1,11 @@
 ##  Architecture 
 
-## Iteration 3 Diagram
-![Diagram](./Iteration3Diagram.PNG)
-## Iteration 2 Diagram
-![Diagram](./Iteration2Diagram.PNG) 
 
-## Iteration 1 Diagram
 ![Diagram](./Architecture.PNG) 
 
 ## Architecture
 
-* Our UmPlanner app is based on the 3 tier architecture. It consist of Presentation, Business and the Persistence Layer.
+* The UmPlanner app is based on the 3 tier architecture. It consist of Presentation, Business and the Persistence Layer.
 
 
 
