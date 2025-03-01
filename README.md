@@ -17,7 +17,6 @@ Updated project architecture can be found [here](./Architecture.md).
 
 ## How to run
 ### Intructions & Build
-- Locate [UMPLANNER](https://code.cs.umanitoba.ca/3350-winter-2021-a02/group-10/umplanner-comp3350-a02-group10)
 - Install [Android Studio](https://developer.android.com/studio/)
 - Clone the project repository
 - Build the project in Android Studio.
